@@ -4,7 +4,7 @@
 
 ## Version
 
-### UNREAL ENGINE 5.6.0
+### UNREAL ENGINE 5.6
 
 ## Learn
 
